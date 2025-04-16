@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Senior Data Scientist with 4+ years of experience building predictive models, lifecycle segmentation, and experimentation frameworks that unlock growth and drive monetization. I’ve deployed ML solutions across product, GTM, and marketing functions—like a lead scoring model that boosted revenue by $535K (~128% lift).
+
+I bring a strong blend of technical skills (Python, SQL, A/B testing, forecasting, clustering, cloud ML platforms) and business acumen, with a passion for turning data into actionable insight. My work spans across scalable ML systems, causal inference, and strategic analytics that power product decisions and GTM strategies.
+
+Currently, I'm diving deeper into Git, full-stack development, and collaborative tools to level up my end-to-end impact on data products.
