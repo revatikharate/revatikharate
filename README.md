@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**💼 Senior Data Scientist | Growth Analytics | ML Enthusiast  
+📍 Based in NYC | Always exploring data and creativity  
+🌟 Passionate about building scalable data solutions that drive revenue and impact ** 
 
 I'm a Senior Data Scientist with 4+ years of experience building predictive models, lifecycle segmentation, and experimentation frameworks that unlock growth and drive monetization. I’ve deployed ML solutions across product, GTM, and marketing functions—like a lead scoring model that boosted revenue by $535K (~128% lift).
 
@@ -21,5 +24,12 @@ I bring a strong blend of technical skills (Python, SQL, A/B testing, forecastin
 
 Currently, I'm diving deeper into Git, full-stack development, and collaborative tools to level up my end-to-end impact on data products.
 
-💻 Tech Stack:
-R Python Shell Script Anaconda Adobe Illustrator Keras Matplotlib NumPy Pandas Plotly PyTorch scikit-learn Scipy TensorFlow Git GitHub Docker
+---
+
+### 🛠 Tech Stack
+**Languages:** Python, SQL, R  
+**Tools:** Azure ML, BigQuery, Databricks, Tableau, Power BI  
+**ML:** scikit-learn, XGBoost, Statsmodels, MLflow  
+
+
+
