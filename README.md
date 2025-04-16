@@ -27,9 +27,11 @@ Currently, I'm diving deeper into Git, full-stack development, and collaborative
 ---
 
 ### 🛠 Tech Stack
-**Languages:** Python, SQL, R  
-**Tools:** Azure ML, BigQuery, Databricks, Tableau, Power BI  
-**ML:** scikit-learn, XGBoost, Statsmodels, MLflow  
+**Programming Languages:** Python, R, Java, C++, PySpark, Spark SQL, HTML, CSS, JavaScript, Airflow
+**Data & Visualization:** SQL, MySQL, MongoDB, Hadoop, Tableau, Power BI, Looker, Matplotlib, Seaborn, Plotly
+**Data Analysis & Machine Learning:** Regression, Classification, Decision Trees, Random Forest, XGBoost, Time Series Forecasting, A/B Testing, Casual Inference, TensorFlow, PyTorch, Scikit-learn, Statsmodels, NLP (NLTK, SpaCy), Pandas, NumPy, Jupyter, MLflow, Docker, 
+**Cloud, Big Data & DevOps:** AWS (S3), Azure (ML, ML Studio), Google Cloud Platform (BigQuery), Databricks, Git, GitHub, Visual S Code
+ 
 
 
 
