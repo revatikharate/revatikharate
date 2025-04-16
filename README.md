@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**💼 Senior Data Scientist | Growth Analytics | ML Enthusiast  
+💼 **Senior Data Scientist** | **Growth Analytics** | **ML Expert**  
 📍 Based in NYC | Always exploring data and creativity  
 🌟 Passionate about building scalable data solutions that drive revenue and impact ** 
 
