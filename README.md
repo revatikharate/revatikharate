@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 💼 **Senior Data Scientist** | **Growth Analytics** | **ML Expert**  
 📍 Based in NYC | Always exploring data and creativity  
-🌟 Passionate about building scalable data solutions that drive revenue and impact ** 
+🌟 Passionate about building scalable data solutions that drive revenue and impact 
 
 I'm a Senior Data Scientist with 4+ years of experience building predictive models, lifecycle segmentation, and experimentation frameworks that unlock growth and drive monetization. I’ve deployed ML solutions across product, GTM, and marketing functions—like a lead scoring model that boosted revenue by $535K (~128% lift).
 
